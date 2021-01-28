@@ -7,7 +7,7 @@
 <script>
 //Global declerations
 var size = 10;
-vari =0;
+var i =0;
 var myWait1 = setInterval(GrowText1, 100);
 function GrowText1()
 {
